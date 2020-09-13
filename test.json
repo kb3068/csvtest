@@ -1,6 +1,6 @@
 {
 	"file": "https://raw.githubusercontent.com/kb3068/csvtest/master/test.csv",
-	"name": "Test",
+	"name": "test",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
